@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlvkeTafara
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me tafaravutuza@gmail.com
 
 <!---
